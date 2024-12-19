@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/han/Desktop/CICD_Practices/CICD_Practices/CICD_Practices.csproj": {}
+    "/Users/han/Desktop/Ｌ/CICD_Practices/CICD_Practices.csproj": {}
   },
   "projects": {
-    "/Users/han/Desktop/CICD_Practices/CICD_Practices/CICD_Practices.csproj": {
+    "/Users/han/Desktop/Ｌ/CICD_Practices/CICD_Practices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/han/Desktop/CICD_Practices/CICD_Practices/CICD_Practices.csproj",
+        "projectUniqueName": "/Users/han/Desktop/Ｌ/CICD_Practices/CICD_Practices.csproj",
         "projectName": "CICD_Practices",
-        "projectPath": "/Users/han/Desktop/CICD_Practices/CICD_Practices/CICD_Practices.csproj",
+        "projectPath": "/Users/han/Desktop/Ｌ/CICD_Practices/CICD_Practices.csproj",
         "packagesPath": "/Users/han/.nuget/packages/",
-        "outputPath": "/Users/han/Desktop/CICD_Practices/CICD_Practices/obj/",
+        "outputPath": "/Users/han/Desktop/Ｌ/CICD_Practices/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
@@ -43,6 +43,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.27.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[131.0.6778.10800, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

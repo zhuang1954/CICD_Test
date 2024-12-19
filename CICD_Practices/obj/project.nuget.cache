@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cIpjIkcDNGg=",
+  "dgSpecHash": "iXBBiqdo2xE=",
   "success": true,
-  "projectFilePath": "/Users/han/Desktop/CICD_Practices/CICD_Practices/CICD_Practices.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/han/Desktop/Ｌ/CICD_Practices/CICD_Practices.csproj",
+  "expectedPackageFiles": [
+    "/Users/han/.nuget/packages/selenium.webdriver/4.27.0/selenium.webdriver.4.27.0.nupkg.sha512",
+    "/Users/han/.nuget/packages/selenium.webdriver.chromedriver/131.0.6778.10800/selenium.webdriver.chromedriver.131.0.6778.10800.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,14 @@
+<h2>Create Record</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <label for="Name">Name:</label>
+        <input type="text" name="name" class="form-control"/>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+}
+
+<p>
+    <a href="@Url.Action("Index")">Back to List</a>
+</p>

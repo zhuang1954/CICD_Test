@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/han/Desktop/CICD_Practices/CICD_PracticesTest/CICD_PracticesTest.csproj": {}
+    "/Users/han/Desktop/Ｌ/CICD_PracticesTest/CICD_PracticesTest.csproj": {}
   },
   "projects": {
-    "/Users/han/Desktop/CICD_Practices/CICD_PracticesTest/CICD_PracticesTest.csproj": {
+    "/Users/han/Desktop/Ｌ/CICD_PracticesTest/CICD_PracticesTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/han/Desktop/CICD_Practices/CICD_PracticesTest/CICD_PracticesTest.csproj",
+        "projectUniqueName": "/Users/han/Desktop/Ｌ/CICD_PracticesTest/CICD_PracticesTest.csproj",
         "projectName": "CICD_PracticesTest",
-        "projectPath": "/Users/han/Desktop/CICD_Practices/CICD_PracticesTest/CICD_PracticesTest.csproj",
+        "projectPath": "/Users/han/Desktop/Ｌ/CICD_PracticesTest/CICD_PracticesTest.csproj",
         "packagesPath": "/Users/han/.nuget/packages/",
-        "outputPath": "/Users/han/Desktop/CICD_Practices/CICD_PracticesTest/obj/",
+        "outputPath": "/Users/han/Desktop/Ｌ/CICD_PracticesTest/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
@@ -59,6 +59,14 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.5.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.27.0, )"
+            },
+            "Selenium.WebDriver.GeckoDriver": {
+              "target": "Package",
+              "version": "[0.35.0, )"
             },
             "coverlet.collector": {
               "target": "Package",

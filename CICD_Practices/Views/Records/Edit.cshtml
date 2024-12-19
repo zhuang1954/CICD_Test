@@ -1,0 +1,17 @@
+@model Record
+
+<h2>Edit Record</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(model => model.Id)
+    <div class="form-group">
+        <label for="Name">Name:</label>
+        <input type="text" name="name" class="form-control" value="@Model.Name"/>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
+<p>
+    <a href="@Url.Action("Index")">Back to List</a>
+</p>

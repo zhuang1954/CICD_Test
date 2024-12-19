@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3+2/kEEaUeg=",
+  "dgSpecHash": "MMDkCNWx6dA=",
   "success": true,
-  "projectFilePath": "/Users/han/Desktop/CICD_Practices/CICD_PracticesTest/CICD_PracticesTest.csproj",
+  "projectFilePath": "/Users/han/Desktop/Ｌ/CICD_PracticesTest/CICD_PracticesTest.csproj",
   "expectedPackageFiles": [
     "/Users/han/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/han/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
@@ -16,6 +16,8 @@
     "/Users/han/.nuget/packages/nunit/3.14.0/nunit.3.14.0.nupkg.sha512",
     "/Users/han/.nuget/packages/nunit.analyzers/3.9.0/nunit.analyzers.3.9.0.nupkg.sha512",
     "/Users/han/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/han/.nuget/packages/selenium.webdriver/4.27.0/selenium.webdriver.4.27.0.nupkg.sha512",
+    "/Users/han/.nuget/packages/selenium.webdriver.geckodriver/0.35.0/selenium.webdriver.geckodriver.0.35.0.nupkg.sha512",
     "/Users/han/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
